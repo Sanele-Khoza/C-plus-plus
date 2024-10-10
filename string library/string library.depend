@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725546982 source:c:\users\sanel\documents\string library\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

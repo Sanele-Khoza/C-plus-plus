@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1722193287 source:c:\users\sanel\documents\composite functions\src\comp.cpp
+	"Comp.h"
+	"Site.h"
+	<iostream>
+
+1722192731 c:\users\sanel\documents\composite functions\include\comp.h
+
+1722193287 c:\users\sanel\documents\composite functions\include\site.h
+
+1722193305 source:c:\users\sanel\documents\composite functions\main.cpp
+	<iostream>
+	"Comp.h"
+
