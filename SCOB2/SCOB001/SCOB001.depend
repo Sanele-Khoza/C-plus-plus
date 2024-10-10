@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1721643964 source:h:\my drive\1015\2024\scob000\project\scob2\scob001\main.cpp
+	<iostream>
+	"Cheeble.h"
+
+1721644465 h:\my drive\1015\2024\scob000\project\scob2\scob001\include\cheeble.h
+	<iostream>
+	<string>
+
+1721644704 source:h:\my drive\1015\2024\scob000\project\scob2\scob001\src\cheeble.cpp
+	"Cheeble.h"
+	"Math.h"
+	<iostream>
+
+1721644465 source:h:\my drive\1015\2024\scob000\project\scob2\scob001\src\math.cpp
+	"Math.h"
+
+1721591213 h:\my drive\1015\2024\scob000\project\scob2\scob001\include\math.h
+
+1721647339 source:c:\users\sanel\onedrive\desktop\scob2\scob001\main.cpp
+	<iostream>
+	"Cheeble.h"
+
